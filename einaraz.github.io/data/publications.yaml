@@ -1,0 +1,284 @@
+- year: '2024'
+  papers:
+  - title: 'Observational partitioning of water and CO$_2$ fluxes at National Ecological
+      Observatory Network (NEON) sites: a 5-year dataset of soil and plant \hack{\break}
+      components for spatial and temporal analysis'
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Elie Bou-Zeid
+    journal: Earth System Science Data
+    doi: 10.5194/essd-16-5603-2024
+    year: '2024'
+  - title: A Single Compartment Relaxed Eddy Accumulation Method
+    authors:
+    - T. Banerjee
+    - G. Katul
+    - ' \textbf{Zahn, E.}'
+    - N. Dias
+    - E. Bou-Zeid
+    journal: 'Journal of Geophysical Research: Atmospheres'
+    doi: https://doi.org/10.1029/2024JD040811
+    year: '2024'
+  - title: Estimating scalar turbulent fluxes with slow-response sensors in the stable
+      atmospheric boundary layer
+    authors:
+    - M. Allouche
+    - V. Sevostianov
+    - ' \textbf{Zahn, E.}'
+    - M. Zondlo
+    - N. Dias
+    - G. Katul
+    - J. Fuentes
+    - E. Bou-Zeid
+    journal: Atmospheric Chemistry and Physics
+    doi: 10.5194/acp-24-9697-2024
+    year: '2024'
+  - title: Numerical Investigation of Observational Flux Partitioning Methods for
+      Water Vapor and Carbon Dioxide
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Khaled Ghannam
+    - Marcelo Chamecki
+    - Arnold Moene
+    - William Kustas
+    - Stephen Good
+    - Elie Bou-Zeid
+    journal: 'Journal of Geophysical Research: Biogeosciences'
+    doi: https://doi.org/10.1029/2024JG008025
+    year: '2024'
+  - title: Setting up a Large-Eddy Simulation to Focus on the Atmospheric Surface
+      Layer
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Elie Bou-Zeid
+    journal: Boundary-Layer Meteorology
+    doi: 10.1007/s10546-023-00841-x
+    year: '2024'
+  - title: Shifts in evapotranspiration components during heatwaves alter surface
+      cooling
+    authors:
+    - Han Chen
+    - Stephen Good
+    - <strong> \textbf{Einara Zahn}</strong>
+    - Elie Bou-Zeid
+    - Kelly Caylor
+    - Richard Fiorella
+    - Marja Haagsma
+    - Lixin Wang
+    journal: Proceedings of the National Academy of Sciences
+    doi: ''
+    year: '2024'
+  - title: Unstably Stratified Shear Flows
+    authors:
+    - Gabriel Katul
+    - ' \textbf{Zahn, Einara}'
+    - ' Elie Bou-Zeid'
+    journal: ''
+    doi: ''
+    year: '2024'
+  - title: '{Partitioning of water and CO$_2$ fluxes at NEON sites into soil and plant
+      components: a five-year dataset for spatial and temporal analysis [dataset]}'
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Elie Bou-Zeid
+    journal: ''
+    doi: 10.5281/zenodo.12191876
+    year: '2024'
+- year: '2023'
+  papers:
+  - title: Relaxed Eddy Accumulation Outperforms Monin-Obukhov Flux Models Under Non-Ideal
+      Conditions
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Elie Bou-Zeid
+    - Nelson Dias
+    journal: Geophysical Research Letters
+    doi: https://doi.org/10.1029/2023GL103099
+    year: '2023'
+  - title: ET Partitioning Assessment Using the TSEB Model and sUAS Information across
+      California Central Valley Vineyards
+    authors:
+    - Rui Gao
+    - Alfonso Torres-Rua
+    - Hector Nieto
+    - ' \textbf{Zahn, Einara}'
+    - Lawrence Hipps
+    - William Kustas
+    - Maria Alsina
+    - Nicolas Bambach
+    - Sebastian Castro
+    - John Prueger
+    - Joseph Alfieri
+    - Lynn McKee
+    - William White
+    - Feng Gao
+    - Andrew McElrone
+    - Martha Anderson
+    - Kyle Knipper
+    - Calvin Coopmans
+    - Ian Gowing
+    - Nurit Agam
+    - Luis Sanchez
+    - Nick Dokoozlian
+    journal: Remote Sensing
+    doi: 10.3390/rs15030756
+    year: '2023'
+- year: '2022'
+  papers:
+  - title: Evaluating different metrics from the thermal-based Two-Source Energy Balance
+      model for monitoring grapevine water stress
+    authors:
+    - H Nieto
+    - M Alsina
+    - W Kustas
+    - O Tejera
+    - F Chen
+    - N Bambach
+    - F Gao
+    - J Alfieri
+    - L Hipps
+    - J Prueger
+    - L McKee
+    - ' \textbf{Zahn, Einara}'
+    - E Bou-Zeid
+    - A McElrone
+    - S Castro
+    - N Dokoozlian
+    journal: Irrigation Science
+    doi: ''
+    year: '2022'
+  - title: Application of a remote sensing three-source energy balance model to improve
+      evapotranspiration partitioning in vineyards
+    authors:
+    - V Burchard-Levine
+    - H Nieto
+    - W Kustas
+    - F Gao
+    - J Alfieri
+    - J Prueger
+    - L Hipps
+    - N Bambach-Ortiz
+    - A McElrone
+    - S Castro
+    - M Alsina
+    - L McKee
+    - ' \textbf{Zahn, Einara}'
+    - E Bou-Zeid
+    - N Dokoozlian
+    journal: Irrigation Science
+    doi: https://doi.org/10.1007/s00271-022-00787-x
+    year: '2022'
+  - title: Impact of advection on two-source energy balance (TSEB) canopy transpiration
+      parameterization for vineyards in the California Central Valley
+    authors:
+    - W Kustas
+    - H Nieto
+    - O Garcia-Tejera
+    - N Bambach
+    - A McElrone
+    - F Gao
+    - J Alfieri
+    - L Hipps
+    - J Prueger
+    - A Torres-Rua
+    - M Anderson
+    - K Knipper
+    - M Alsina
+    - L McKee
+    - ' \textbf{Zahn, Einara}'
+    - E Bou-Zeid
+    - N Dokoozlian
+    journal: Irrigation Science
+    doi: ''
+    year: '2022'
+  - title: Direct partitioning of eddy-covariance water and carbon dioxide fluxes
+      into ground and plant components
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Elie Bou-Zeid
+    - Stephen Good
+    - Gabriel Katul
+    - Christoph Thomas
+    - Khaled Ghannam
+    - James Smith
+    - Marcelo Chamecki
+    - Nelson Dias
+    - Jose Fuentes
+    - Joseph Alfieri
+    - Hyojung Kwon
+    - Kelly Caylor
+    - Zhiqiu Gao
+    - Keir Soderberg
+    - Nicolas Bambach
+    - Lawrence Hipps
+    - John Prueger
+    - William Kustas
+    journal: Agricultural and Forest Meteorology
+    doi: https://doi.org/10.1016/j.agrformet.2021.108790
+    year: '2022'
+  - title: The Hydrological Urban Heat Island
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Claire Welty
+    - James Smith
+    - Stanley Kemp
+    - Mary-Lynn Baeck
+    - Elie Bou-Zeid
+    journal: ''
+    doi: ''
+    year: '2022'
+- year: '2021'
+  papers:
+  - title: 'The Hydrological Urban Heat Island: Determinants of Acute and Chronic
+      Heat Stress in Urban Streams'
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - Claire Welty
+    - James Smith
+    - Stanley Kemp
+    - Mary-Lynn Baeck
+    - Elie Bou-Zeid
+    journal: JAWRA Journal of the American Water Resources Association
+    doi: https://doi.org/10.1111/1752-1688.12963
+    year: '2021'
+- year: '2017'
+  papers:
+  - title: Flux-variance and flux-gradient relationships in the roughness sublayer
+      over the Amazon forest
+    authors:
+    - "Tom\xE1s Chor"
+    - Nelson Dias
+    - "Alessandro Ara\xFAjo"
+    - Stefan Wolff
+    - ' \textbf{Zahn, Einara}'
+    - "Ant\xF4nio Manzi"
+    - Ivonne Trebs
+    - "Marta S\xE1"
+    - Paulo Teixeira
+    - "Matthias S\xF6rgel"
+    journal: Agricultural and Forest Meteorology
+    doi: https://doi.org/10.1016/j.agrformet.2017.03.009
+    year: '2017'
+- year: '2016'
+  papers:
+  - title: Scalar turbulent behavior in the roughness sublayer of an Amazonian forest
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - N. Dias
+    - A. Ara\'ujo
+    - L. S\'a
+    - M. S\"orgel
+    - I. Trebs
+    - S. Wolff
+    - A. Manzi
+    journal: Atmospheric Chemistry and Physics
+    doi: 10.5194/acp-16-11349-2016
+    year: '2016'
+  - title: A Simple Methodology for Quality Control of Micrometeorological Datasets
+    authors:
+    - ' \textbf{Zahn, Einara}'
+    - T Chor
+    - N Dias
+    journal: American Journal of Environmental Engineering
+    doi: 'doi: 10.5923/s.ajee.201601.20'
+    year: '2016'

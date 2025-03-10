@@ -1,0 +1,18 @@
+/* Increase the width of the main content container */
+.center {
+    max-width: 2200px; /* Adjust this value to your preference */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Adjust the width of the article content */
+.article-content {
+    max-width: 100%; /* Make the article content use the full container width */
+}
+
+/* Optional: Adjust the header and footer width to match */
+.header, .footer {
+    max-width: 1200px; /* Match the container width */
+    margin: 0 auto;
+    padding: 0 20px;
+}

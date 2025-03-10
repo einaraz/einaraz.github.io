@@ -1,0 +1,22 @@
+/* Override the main container width */
+.center {
+    max-width: 1200px; /* Adjust this value to your preference */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Override the content width */
+.measure-wide, .mw7 {
+    max-width: 100%; /* Make the content use the full container width */
+}
+
+/* Optional: Adjust the header and footer width to match */
+.header, .footer {
+    max-width: 1200px; /* Match the container width */
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.publications h1:last-of-type {
+    display: none;
+  }

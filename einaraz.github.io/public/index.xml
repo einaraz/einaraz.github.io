@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Einara Zahn on </title>
+    <link>http://localhost:63377/</link>
+    <description>Recent content in Einara Zahn on </description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:63377/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:63377/publications/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63377/publications/</guid>
+      <description>&lt;h2 id=&#34;submitted-papers&#34;&gt;Submitted Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Han Chen, Stephen Good, &lt;strong&gt;Einara Zahn&lt;/strong&gt;, Elie Bou-Zeid, Kelly Caylor, Richard Fiorella, Marja Haagsma, Lixin Wang. &lt;em&gt;Shifts in evapotranspiration components during heatwaves alter surface cooling&lt;/em&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;published-papers&#34;&gt;Published Papers&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zahn, Einara&lt;/strong&gt;, Elie Bou-Zeid. &lt;em&gt;Observational partitioning of water and CO&lt;!-- raw HTML omitted --&gt;2 fluxes at National Ecological Observatory Network (NEON) sites: a 5-year dataset of soil and plant  components for spatial and temporal analysis&lt;/em&gt;. &lt;em&gt;Earth System Science Data&lt;/em&gt;. &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://doi.org/10.5194/essd-16-5603-2024&#34;&gt;https://doi.org/10.5194/essd-16-5603-2024&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>http://localhost:63377/about/</link>
+      <pubDate>Fri, 28 Feb 2025 23:03:38 -0800</pubDate>
+      <guid>http://localhost:63377/about/</guid>
+      <description>&lt;p&gt;Site in construction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:63377/research/</link>
+      <pubDate>Fri, 28 Feb 2025 23:03:38 -0800</pubDate>
+      <guid>http://localhost:63377/research/</guid>
+      <description>&lt;p&gt;Site in construction&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:63377/resources/</link>
+      <pubDate>Fri, 28 Feb 2025 23:03:38 -0800</pubDate>
+      <guid>http://localhost:63377/resources/</guid>
+      <description>&lt;p&gt;This page provides a curated collection of valuable datasets and software, useful for a wide range of applications in research and analysis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;datasets&#34;&gt;Datasets&lt;/h2&gt;&#xA;&lt;h3 id=&#34;national-land-cover-database-nlcd&#34;&gt;&lt;a href=&#34;https://www.mrlc.gov/&#34;&gt;National Land Cover Database (NLCD)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NLCD provides comprehensive land cover data for the United States, derived from satellite imagery and classified into various land cover types. It supports applications in environmental monitoring, urban planning, and climate studies. The dataset has a &lt;strong&gt;30-meter spatial resolution&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Data can be explored and downloaded using the &lt;a href=&#34;https://www.mrlc.gov/viewer/&#34;&gt;NLCD Viewer&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;multi-radar-multi-sensor-mrms&#34;&gt;&lt;a href=&#34;https://www.nssl.noaa.gov/projects/mrms/&#34;&gt;Multi-Radar Multi-Sensor (MRMS)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MRMS provides high-resolution, real-time radar-derived precipitation products, integrating multiple radar sources and observations to improve precipitation estimation. It has a 1 km spatial resolution and temporal refinement as short as 5 minutes.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;conus404-4-km-north-american-wrf-reanalysis&#34;&gt;&lt;a href=&#34;https://rda.ucar.edu/datasets/d559000/&#34;&gt;CONUS404 (4-km North American WRF Reanalysis)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A 4-km dynamically downscaled reanalysis dataset for the contiguous U.S. (CONUS) using the WRF model. Available through NCAR&amp;rsquo;s RDA system and on the NCAR GLADE system.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;analysis-of-record-for-calibration-aorc&#34;&gt;&lt;a href=&#34;https://aws.amazon.com/marketplace/pp/prodview-m2sp7gsk5ts6s#overview&#34;&gt;Analysis of Record for Calibration (AORC)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A high-resolution (1 km), gridded atmospheric forcing dataset designed for hydrologic modeling, including precipitation, temperature, humidity, wind, and radiation, all inputs needed for urban canopy models.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;global-building-heights-for-urban-studies-ut-globus&#34;&gt;&lt;a href=&#34;https://zenodo.org/records/11156602&#34;&gt;GLObal Building Heights for Urban Studies (UT-GLOBUS)&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A global dataset of building heights, useful for urban studies, including urban climate and environmental modeling.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;partitioning-of-water-and-co2-fluxes-at-neon-sites-into-soil-and-plant-components&#34;&gt;&lt;a href=&#34;https://doi.org/10.5281/zenodo.12191876&#34;&gt;Partitioning of water and CO2 fluxes at NEON sites into soil and plant components&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A five-year dataset for spatial and temporal analysis of plant transpiration and below canopy evaporation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;software&#34;&gt;Software&lt;/h2&gt;&#xA;&lt;h3 id=&#34;awesome-atmospheric-tools&#34;&gt;&lt;a href=&#34;https://github.com/kbSSR/awesome-atmos&#34;&gt;Awesome Atmospheric Tools&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A curated collection of atmospheric software tools for various atmospheric science applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;geoai-artificial-intelligence-for-geospatial-data&#34;&gt;&lt;a href=&#34;https://geoai.gishub.org/&#34;&gt;GeoAI: Artificial Intelligence for Geospatial Data&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A python package that integrates AI with geospatial data analysis and visualization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;visualization-tools&#34;&gt;Visualization tools&lt;/h2&gt;&#xA;&lt;h3 id=&#34;paraview&#34;&gt;&lt;a href=&#34;https://www.paraview.org/&#34;&gt;Paraview&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A powerful open-source software for visualizing large-scale scientific data.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;vapor&#34;&gt;&lt;a href=&#34;https://www.vapor.ucar.edu/&#34;&gt;VAPOR&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A high-performance visualization and analysis software for atmospheric and climate data.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:63377/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:63377/contact/</guid>
+      <description>&lt;p&gt;You can reach me via email at einaraz at princeton.edu.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
