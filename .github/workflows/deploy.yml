@@ -1,9 +1,14 @@
-name: Deploy Hugo Site to GitHub Pages
+name: Deploy Hugo Site to GitHub Pages (Docs Folder)
 
 on:
   push:
     branches:
-      - main  # Deploy when pushing to main
+      - main  # Deploy on push to main
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   deploy:
@@ -13,21 +18,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # Fetch Hugo themes
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true  # Use Hugo Extended for SCSS/SASS support
+          extended: true  # Needed for SCSS/SASS support
 
       - name: Build Site
-        run: hugo --minify
+        run: hugo --minify -d docs  # Store built site in /docs
 
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages  # Ensure this is set
-          publish_dir: ./public
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs
+          git diff --quiet && git diff --staged --quiet || git commit -m "Deploy Hugo site"
+          git push
