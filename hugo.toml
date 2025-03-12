@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "https://gohugo-theme-ananke.pages.dev"
+title = "Einara Zahn"
+baseURL = "https://einaraz.github.io/"
 theme = "ananke"
 resourceDir = "../resources"
 
