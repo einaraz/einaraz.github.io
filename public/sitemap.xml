@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gohugo-theme-ananke.pages.dev/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/publications/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/publications/</loc>
     <lastmod>2025-03-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/about/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/about/</loc>
     <lastmod>2025-02-28T23:03:38-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/research/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/research/</loc>
     <lastmod>2025-02-28T23:03:38-08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/categories/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/contact/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://gohugo-theme-ananke.pages.dev/tags/</loc>
+    <loc>http://localhost:57692/einaraz.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

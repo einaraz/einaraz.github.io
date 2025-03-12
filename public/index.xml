@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Einara Zahn on </title>
-    <link>https://gohugo-theme-ananke.pages.dev/</link>
+    <link>http://localhost:57692/einaraz.github.io/</link>
     <description>Recent content in Einara Zahn on </description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://gohugo-theme-ananke.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:57692/einaraz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>https://gohugo-theme-ananke.pages.dev/publications/</link>
+      <link>http://localhost:57692/einaraz.github.io/publications/</link>
       <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://gohugo-theme-ananke.pages.dev/publications/</guid>
+      <guid>http://localhost:57692/einaraz.github.io/publications/</guid>
       <description>&lt;h2 id=&#34;submitted-papers&#34;&gt;Submitted Papers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Han Chen, Stephen Good, &lt;strong&gt;Einara Zahn&lt;/strong&gt;, Elie Bou-Zeid, Kelly Caylor, Richard Fiorella, Marja Haagsma, Lixin Wang. &lt;em&gt;Shifts in evapotranspiration components during heatwaves alter surface cooling&lt;/em&gt;. &lt;em&gt;Proceedings of the National Academy of Sciences&lt;/em&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;published-papers&#34;&gt;Published Papers&lt;/h2&gt;&#xA;&lt;h2 id=&#34;2024&#34;&gt;2024&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Zahn, Einara&lt;/strong&gt;, Elie Bou-Zeid. &lt;em&gt;Observational partitioning of water and CO&lt;!-- raw HTML omitted --&gt;2 fluxes at National Ecological Observatory Network (NEON) sites: a 5-year dataset of soil and plant  components for spatial and temporal analysis&lt;/em&gt;. &lt;em&gt;Earth System Science Data&lt;/em&gt;. &lt;!-- raw HTML omitted --&gt;&lt;a href=&#34;https://doi.org/10.5194/essd-16-5603-2024&#34;&gt;https://doi.org/10.5194/essd-16-5603-2024&lt;/a&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>About me</title>
-      <link>https://gohugo-theme-ananke.pages.dev/about/</link>
+      <link>http://localhost:57692/einaraz.github.io/about/</link>
       <pubDate>Fri, 28 Feb 2025 23:03:38 -0800</pubDate>
-      <guid>https://gohugo-theme-ananke.pages.dev/about/</guid>
+      <guid>http://localhost:57692/einaraz.github.io/about/</guid>
       <description>&lt;p&gt;Site in construction&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://gohugo-theme-ananke.pages.dev/research/</link>
+      <link>http://localhost:57692/einaraz.github.io/research/</link>
       <pubDate>Fri, 28 Feb 2025 23:03:38 -0800</pubDate>
-      <guid>https://gohugo-theme-ananke.pages.dev/research/</guid>
+      <guid>http://localhost:57692/einaraz.github.io/research/</guid>
       <description>&lt;p&gt;Site in construction&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gohugo-theme-ananke.pages.dev/contact/</link>
+      <link>http://localhost:57692/einaraz.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gohugo-theme-ananke.pages.dev/contact/</guid>
+      <guid>http://localhost:57692/einaraz.github.io/contact/</guid>
       <description>&lt;p&gt;You can reach me via email at einaraz at princeton.edu.&lt;/p&gt;</description>
     </item>
   </channel>
