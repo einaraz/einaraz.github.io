@@ -1,5 +1,5 @@
 title = "Einara Zahn"
-baseURL = "https://einaraz.github.io/"
+baseURL = "https://einaraz.github.io/einaraz.github.io/"
 theme = "ananke"
 resourceDir = "../resources"
 
